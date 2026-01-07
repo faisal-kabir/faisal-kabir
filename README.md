@@ -22,8 +22,13 @@ Passionate about creating **future-proof solutions**, bridging backend data with
 ## 📈 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=faisal-kabir&show_icons=true&theme=radical" alt="Faisal's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faisal-kabir&theme=radical" alt="GitHub Streak" />
 </p>
+
+## 🔥 GitHub Streak  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=faisal-kabir&theme=radical" alt="GitHub Streak" />
+</p>
+
 
 ---
 
@@ -37,8 +42,8 @@ Passionate about creating **future-proof solutions**, bridging backend data with
 ## 📫 Connect With Me  
 <p align="center">
   <a href="https://github.com/faisal-kabir"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/faisal-kabir"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:faisalkabir.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/faisal-kabir-92b8b5139"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:faisalkabir95@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
