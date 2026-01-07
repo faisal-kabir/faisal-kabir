@@ -1,29 +1,46 @@
-### Hi there 👋, Faisal Kabir
-#### I am a Flutter Engineer
+# 👋 Hi, I'm Faisal Kabir  
 
+🚀 **Flutter Developer | Android Enthusiast | Problem Solver**  
 
-As a self-motivated, responsible and quick learner, seeking for such a professional environment where have a
-dynamic and challenging task through which I can enhance my skills to prove the best of my ability in achieving the
-objective of the career. Try to learn new programming languages & Love to explore new tools & technologies.
+I build robust, scalable, and user-friendly mobile applications with **Flutter** and **Android**.  
+Passionate about creating **future-proof solutions**, bridging backend data with device-side APIs, and ensuring apps run smoothly across diverse environments.  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+---
 
-- 🔭 I'm currently working on Flutter and Android Native 
-- 🌱 I'm currently learning iOS Native 
-- 📫 How to reach me: faisalkabir95@gmail.com
+## 🛠️ Tech Stack & Skills  
+- **Languages:** Dart, Kotlin, Java  
+- **Frameworks:** Flutter, Android SDK  
+- **Tools:** Firebase, REST APIs, Git, CI/CD  
+- **Specialties:**  
+  - Device management APIs  
+  - Hardware info retrieval  
+  - Mapping enterprise JSON to on-device capabilities  
+  - Designing unified utility functions  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/faisal-kabir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/faisal-kabir-92b8b5139/)  
+---
 
+## 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faisal-kabir&show_icons=true&theme=radical" alt="Faisal's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faisal-kabir&theme=radical" alt="GitHub Streak" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faisal-kabir)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=faisal-kabir&show_icons=true&count_private=true)  
+## 🌟 Featured Projects  
+- 📱 **Enterprise Device Manager** – Utility classes for reliable device info retrieval  
+- 🔐 **Policy Compliance Checker** – Backend workflows for robust device identification  
+- 🗺️ **Flutter Mapping Toolkit** – Unified functions bridging backend JSON with device APIs  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=faisal-kabir)  
+---
 
-![GitHub metrics](https://metrics.lecoq.io/faisal-kabir)  
+## 📫 Connect With Me  
+<p align="center">
+  <a href="https://github.com/faisal-kabir"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/faisal-kabir"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:faisalkabir.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=faisal-kabir)  
+---
 
-![Profile views](https://gpvc.arturio.dev/faisal-kabir)  
+⭐️ From [faisal-kabir](https://github.com/faisal-kabir)
