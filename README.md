@@ -16,20 +16,6 @@ Passionate about creating **future-proof solutions**, bridging backend data with
   - Hardware info retrieval  
   - Mapping enterprise JSON to on-device capabilities  
   - Designing unified utility functions  
-
----
-
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faisal-kabir&show_icons=true&theme=radical" alt="Faisal's GitHub stats" />
-</p>
-
-## 🔥 GitHub Streak  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=faisal-kabir&theme=radical" alt="GitHub Streak" />
-</p>
-
-
 ---
 
 ## 🌟 Featured Projects  
